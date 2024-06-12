@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+.custom-container {
+    margin: 10px;
+    padding: 40px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    text-align: center;
+}
